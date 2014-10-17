@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jas:home|Door43 (jas)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jas|d43-jas repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jas/archive/master.zip|d43-jas.zip]]
+
+**Recent Changes**
+{{changes>ns = jas}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jas|Ethnologue data]]
+
